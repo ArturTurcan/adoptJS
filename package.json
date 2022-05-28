@@ -1,0 +1,17 @@
+{
+  "name": "adoptjs",
+  "version": "1.0.0",
+  "description": "Crearea unui site in care proprietarii de animale va adauga animale personale si cine va dori va dona acest animal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Adoptare",
+    "donare",
+    "animale",
+    "ajutor."
+  ],
+  "author": "Turcan Artur",
+  "license": "ISC"
+}
