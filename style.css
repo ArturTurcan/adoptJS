@@ -1,0 +1,36 @@
+.register-panel-1{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.form{
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 300px;
+    height: 400px;
+    border-radius: 20px;
+    border: 2px solid whitesmoke;
+    padding: 20px 30px 38px 30px;
+    box-shadow: 0 6px 50px rgba(0,0,0,0.75);
+    position: relative;
+}
+form input[type=submit]{
+    margin: 1em 0 0 0;
+    width: auto;
+}
+.btn{
+    cursor: pointer;
+    font-size: 0.8rem;
+    font-weight: 700;
+    padding: 0.75em 1.5em;
+    transition: opacity 0.2s ease;
+}
+.btn:hover{
+    opacity: 0.8;
+}
