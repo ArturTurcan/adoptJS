@@ -4,65 +4,92 @@
       "id": 1,
       "name": "Joric",
       "imgUrl": "#",
-      "descrition": "fat animal",
+      "description": "fat animal",
       "donation": 50
     },
     {
       "id": 2,
       "name": "Denis",
       "imgUrl": "#",
-      "descrition": "fat animal",
+      "description": "fat animal",
       "donation": 60
     },
     {
       "id": 3,
       "name": "Vitalic",
       "imgUrl": "#",
-      "descrition": "fat animal",
+      "description": "fat animal",
       "donation": 10
     },
     {
+      "name": "dasdasdas",
+      "imgUrl": "asddsaads",
+      "description": "adsads",
+      "donation": 0,
       "id": 4
     },
     {
+      "name": "aaaaaaaaa",
+      "imgUrl": "aaaaa",
+      "description": "aaa",
+      "donation": 0,
       "id": 5
     },
     {
+      "name": "dsasa",
+      "imgUrl": "saadd",
+      "description": "sdas",
+      "donation": 0,
       "id": 6
     },
     {
+      "name": "",
+      "imgUrl": "",
+      "description": "",
+      "donation": 0,
       "id": 7
     },
     {
+      "name": "dasads",
+      "imgUrl": "dsadas",
+      "description": "dasdas",
+      "donation": 0,
       "id": 8
     },
     {
+      "name": "",
+      "imgUrl": "",
+      "description": "",
+      "donation": 0,
       "id": 9
     },
     {
+      "name": "name",
+      "imgUrl": "C:\\fakepath\\icons8-sun-64.png",
+      "description": "",
+      "donation": 0,
       "id": 10
     },
     {
+      "name": "namedsadasads",
+      "imgUrl": "C:\\fakepath\\icons8-female-user-64.png",
+      "description": "dsaadsadsads",
+      "donation": 0,
       "id": 11
     },
     {
+      "name": "dadadas",
+      "imgUrl": "C:\\fakepath\\icons8-sun-64.png",
+      "description": "dsadsaads",
+      "donation": 0,
       "id": 12
     },
     {
-      "id": 13
-    },
-    {
-      "id": 14
-    },
-    {
-      "id": 15
-    },
-    {
-      "name": "dsadasdas",
-      "imgUrl": "sdada",
-      "description": "dsa",
+      "name": "dsadsa",
+      "imgUrl": "C:\\fakepath\\icons8-reddit-64.png",
+      "description": "dasdas",
       "donation": 0,
-      "id": 16
+      "id": 13
     }
   ]
 }
